@@ -66,18 +66,18 @@ testwithdomainnondogngmail.com\
 -\
 test@mriscan.live\
 test@opemails.com\
-test@10minutes.email\
+test@10minutes.email
 
 ***tg_msg.txt:***
 
 > <b>Тестовое сообщение</b> из скрипта 🚀\
 Проверка email-валидации:\
-- ✅ test@gmail.com → домен валиден\
-- ❌ user@nonexistentdomain12345.com → домен отсутствует\
+✅ test@gmail.com → домен валиден\
+❌ user@nonexistentdomain12345.com → домен отсутствует\
 
 ***.env:***
 
 > EMAILS_FILEPATH = C:\polza_test\emails.txt\
 TELEGRAM_TEXT_FILEPATH = C:\polza_test\tg_msg.txt\
 BOT_TOKEN = "8333534393:AAE45yCKIH5LyWoUaWX4DusYNt-P0cjC_Lg" \
-GROUP_ID = -1003361575513\
+GROUP_ID = -1003361575513
