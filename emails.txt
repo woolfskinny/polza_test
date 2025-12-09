@@ -1,0 +1,11 @@
+test@gmail.com
+test@ya.ru
+test@yandex.ru
+test@mail.ru
+testwithoutdomain
+testwithdomainnondogngmail.com
+-
+-
+test@mriscan.live
+test@opemails.com
+test@10minutes.email
